@@ -1,0 +1,19 @@
+{
+    "name": "raspi-turret",
+    "version": "1.0.0",
+    "description": "a private tinkering attempt to build a reliable sensor station for home security purposes",
+    "main": "server.js",
+    "dependencies": {
+        "sync-runner": "*",
+        "sync-request": "*",
+        "daemon": "*",
+        "colors": "*",
+        "moment": "*",
+        "ipware": "*",
+        "formidable": "*",
+        "serialport": "*",
+        "request": "*"
+    },
+    "author": "PsyChip <root@psychip.net>",
+    "license": "ISC"
+}
